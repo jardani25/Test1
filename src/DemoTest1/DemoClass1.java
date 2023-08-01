@@ -7,5 +7,10 @@ public class DemoClass1 {
 		System.out.println("Java Github");
 
 		System.out.println("Java");
+		
+		
+		System.out.println("Jonathan");
+
+		System.out.println("Stephanie");
 	}
 }
